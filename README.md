@@ -72,30 +72,24 @@ python realtimedetection.py
 
 
 ## 😊 Detected Emotions
-    Angry
-
-    Disgust
-
-    Fear
-
-    Happy
-
-    Sad
-
-    Surprise
-
-    Neutral
+Angry
+Disgust
+Fear
+Happy
+Sad
+Surprise
+Neutral
 
 
 ## 📈 Results
-    Training Accuracy: ~71%
-    Model Type: CNN
-    Performance: Works on real-time webcam video feed
+Training Accuracy: ~71%
+Model Type: CNN
+Performance: Works on real-time webcam video feed
 
 ## Future Scope
-    Improve accuracy with deeper CNN or transfer learning (e.g., VGG16, ResNet).
-    Add support for multiple faces at once.
-    Create a web-based interface for live detection.
+Improve accuracy with deeper CNN or transfer learning (e.g., VGG16, ResNet).
+Add support for multiple faces at once.
+Create a web-based interface for live detection.
 
 ## Conclusion
-    The Face Emotion Detection project successfully demonstrates how deep learning and computer vision can identify human emotions from facial expressions in real time.
+The Face Emotion Detection project successfully demonstrates how deep learning and computer vision can identify human emotions from facial expressions in real time.
